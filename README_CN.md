@@ -1,5 +1,9 @@
 # 创建可跳转的Zotero引用
 
+## 本仓库已废弃
+
+**嘿，我重构了代码并打包了一个Python包，请查看我的另一个仓库：[Syize/noterools](https://github.com/Syize/noterools)**
+
 Zotero插入的引用和参考文献表不能像正常的交叉引用一样跳转，这个Python脚本可以对Zotero的引用进行处理，设置超链接实现跳转功能
 
 ## 原理

@@ -1,5 +1,9 @@
 # Create hyperlinks from citations to bibliographies for Zotero
 
+## Deprecated
+
+**Hey, I rewrote the code and published a Python package. Check my other repo: [Syize/noterools](https://github.com/Syize/noterools)**
+
 <p align="center">English | <a href="README_CN.md">中文文档</a></p>
 
 This Python script can add hyperlinks from Zotero's citations to bibliographies, so you can jump from citation to its bibliography like normal cross-reference.
